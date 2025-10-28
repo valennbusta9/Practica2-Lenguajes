@@ -1,5 +1,5 @@
 # Práctica 2 – Lenguajes 2025
-Este proyecto corresponde a la **Práctica 2 de la materia Lenguajes 2025**, cuyo objetivo es trabajar con lectura y análisis de archivos CSV, manipulación de fechas, funciones lambda y generación de salidas en formato CSV y JSON.
+Este proyecto corresponde a la **Práctica 2 de la materia Lenguajes 2025**, cuyo objetivo es trabajar con lectura y análisis de archivos CSV, manipulación de fechas y generación de salidas en formato CSV y JSON.
 ## Descripción del proyecto
 El programa analiza un dataset de sesiones de entrenamiento de campeones del **League of Legends**, procesando la información para obtener distintos indicadores, como:
 - Día o días de la semana con más entrenamientos  

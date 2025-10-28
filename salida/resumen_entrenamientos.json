@@ -1,0 +1,103 @@
+{
+    "total_registros": 600,
+    "dias": {
+        "Sunday": {
+            "Garen": 12,
+            "Yasuo": 8,
+            "Thresh": 7,
+            "Morgana": 10,
+            "Ezreal": 11,
+            "Vi": 6,
+            "Ahri": 6,
+            "Zed": 7,
+            "Lee Sin": 5,
+            "Lux": 4,
+            "Jinx": 5,
+            "Caitlyn": 4
+        },
+        "Monday": {
+            "Ahri": 8,
+            "Thresh": 7,
+            "Ezreal": 5,
+            "Lux": 9,
+            "Garen": 4,
+            "Lee Sin": 10,
+            "Yasuo": 10,
+            "Morgana": 8,
+            "Zed": 6,
+            "Jinx": 8,
+            "Vi": 8,
+            "Caitlyn": 5
+        },
+        "Tuesday": {
+            "Morgana": 10,
+            "Zed": 9,
+            "Yasuo": 9,
+            "Garen": 4,
+            "Lee Sin": 7,
+            "Vi": 8,
+            "Lux": 6,
+            "Ezreal": 5,
+            "Thresh": 9,
+            "Jinx": 9,
+            "Caitlyn": 8,
+            "Ahri": 4
+        },
+        "Wednesday": {
+            "Lux": 8,
+            "Ezreal": 10,
+            "Thresh": 8,
+            "Lee Sin": 5,
+            "Yasuo": 11,
+            "Zed": 8,
+            "Caitlyn": 8,
+            "Ahri": 4,
+            "Vi": 10,
+            "Garen": 6,
+            "Morgana": 3,
+            "Jinx": 7
+        },
+        "Thursday": {
+            "Yasuo": 9,
+            "Thresh": 7,
+            "Morgana": 11,
+            "Vi": 7,
+            "Garen": 9,
+            "Jinx": 3,
+            "Lee Sin": 10,
+            "Caitlyn": 5,
+            "Lux": 8,
+            "Ezreal": 5,
+            "Ahri": 7,
+            "Zed": 7
+        },
+        "Friday": {
+            "Thresh": 12,
+            "Zed": 12,
+            "Morgana": 2,
+            "Vi": 12,
+            "Lee Sin": 10,
+            "Ahri": 4,
+            "Garen": 5,
+            "Jinx": 7,
+            "Ezreal": 6,
+            "Yasuo": 3,
+            "Caitlyn": 5,
+            "Lux": 5
+        },
+        "Saturday": {
+            "Ahri": 7,
+            "Yasuo": 6,
+            "Garen": 8,
+            "Vi": 12,
+            "Ezreal": 3,
+            "Zed": 6,
+            "Morgana": 9,
+            "Lee Sin": 7,
+            "Thresh": 8,
+            "Lux": 7,
+            "Caitlyn": 2,
+            "Jinx": 5
+        }
+    }
+}
